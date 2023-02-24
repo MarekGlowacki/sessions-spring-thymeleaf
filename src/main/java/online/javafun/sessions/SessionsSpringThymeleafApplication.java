@@ -7,4 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SessionsSpringThymeleafApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SessionsSpringThymeleafApplication.class, args
+        SpringApplication.run(SessionsSpringThymeleafApplication.class, args);
+    }
+
+}
